@@ -44,7 +44,7 @@ The lower resolution:
 
 The better resolution:
 
-![better_resolution.png](higher_resolution.png)
+![better_resolution.png](better_resolution.png)
 
 Explain how you generate these pictures from `task2.py`.
 
